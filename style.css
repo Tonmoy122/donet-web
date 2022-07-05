@@ -114,3 +114,13 @@
     text-align: center;
     
 }
+.my-update{
+    text-align: center;
+    margin-left: 315px;
+    margin-right: 315px; 
+}
+#mailbox{
+    height: 50px;
+    width: 300px;
+    
+}
