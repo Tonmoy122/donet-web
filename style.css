@@ -110,7 +110,7 @@
     padding: 40px;
     background-color: #fff4d6;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 130px;
     text-align: center;
     
 }
@@ -123,4 +123,11 @@
     height: 50px;
     width: 300px;
     
+}
+footer{
+    background-color: #0B0D17;
+    color:#FF5959;
+    text-align: center;
+    padding: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
