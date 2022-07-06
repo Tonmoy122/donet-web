@@ -9,7 +9,7 @@ body{
 .topper{
     background-image: url(images/donation6.jpg);
     background-size: cover;
-    padding: 285px;
+    padding: 258px;
 }
 
 .topper div{
@@ -40,7 +40,7 @@ body{
 
 }
 .secound{
-    margin-top: 200px;
+    margin-top: 170px;
     text-align: center;
  
 }
@@ -61,12 +61,23 @@ body{
     font-size: 30px;
     font-weight: 700;
     margin-top: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 180px;
 
 }
 
 .amount span{
     margin-right: 50px;
+}
+.donateplan h1{
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
+#donateid{
+    font-size: 40px;
+}
+.donateplan p{
+    text-align: center;
+    margin-bottom: 25px;
 }
 #avaible{
     color: #FF5959;
@@ -81,10 +92,10 @@ body{
     display: flex;
     margin-right: 150px;
     margin-left: 150px;
+    text-align: justify;
 
 }
 .container div{
-    background-color: tomato;
     margin: 10px;
 
     padding-left: 22px;
@@ -94,14 +105,33 @@ body{
     
 
 }
+#food{
+    text-align:justify ;
+    background-color:rgba(255, 89, 89, 0.1);
+    border-radius: 8px;
+}
+#shelter{
+    text-align: justify;
+    background-color:#FFF4D6 ;
+    border-radius: 8px;
+}
+#education{
+    text-align: justify;
+    background-color:rgba(79, 157, 166, 0.1);
+    border-radius: 8px;
+}
 .bonus{
     display: flex;
-    margin-top: 100px;
+    margin-top: 150px;
     margin-bottom: 100px;
 }
+.half-width h1{
+    font-size: 50px;
+}
 .half-width img{
-    height: 477px;
+    height: 440px;
     width: 456px;
+    margin-top: 50px;
 
 }
 .half-width{
@@ -121,11 +151,29 @@ body{
     text-align: center;
     margin-left: 315px;
     margin-right: 315px; 
+    margin-top: 200px;
+}
+#updatefont{
+    font-size: 40px;
 }
 #mailbox{
     height: 50px;
     width: 300px;
+    border-radius: 8px;
+    padding-left: 20px;
     
+}
+.mailbtn{
+    background-color: #FF5959;
+    color: azure;
+    padding: 16px 12px 16px 12px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+    margin-top: 10px;
+
 }
 footer{
     background-color: #0B0D17;
